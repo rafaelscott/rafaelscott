@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Rafael Scott (@rafaelscott)
+- 👋 Olá, eu sou Rafael Scott
 - 👀 Meu interesse é tecnologia. 😁 
 
 <!---
